@@ -1,0 +1,16 @@
+#funcraft_main {
+    top: 0px;
+    background-color: rgb(20, 20, 20);
+    width: 100vw;
+    text-align: center;
+    color: whitesmoke;
+    padding: 30px;
+}
+
+body {
+    background-color: whitesmoke;
+    margin: 0;
+    padding: 0;
+    max-width: 100vw !important;
+    overflow-x: hidden;
+}
